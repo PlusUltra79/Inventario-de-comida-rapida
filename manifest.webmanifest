@@ -1,0 +1,1 @@
+{"name":"Control de Puesto","short_name":"Mi Puesto","description":"Inventario y caja para puestos de perros calientes","lang":"es","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#faf6f0","theme_color":"#d9480f","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
